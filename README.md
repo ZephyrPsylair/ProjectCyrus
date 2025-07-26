@@ -1,4 +1,4 @@
-# 🎯 Dynamic Box Spawner - Unreal Engine Internship Task
+  # 🎯 Dynamic Box Spawner - Unreal Engine Internship Task
 
 This project dynamically spawns boxes in the game world using data fetched from a **JSON file hosted online**. Each box has unique properties like color, health, and score, and reacts to player interaction (e.g., shooting them reduces health and increases score).
 
@@ -60,7 +60,7 @@ This project dynamically spawns boxes in the game world using data fetched from 
 
 ## 🛠 Tech Stack
 
-- **Engine**: Unreal Engine 5.x (C++)
+- **Engine**: Unreal Engine 5.6 (C++)
 - **JSON Source**: [GitHub Raw Link](https://raw.githubusercontent.com/CyrusCHAU/Varadise-Technical-Test/refs/heads/main/data.json)
 - **No plugins used** – fully powered by Unreal’s built-in modules
         
